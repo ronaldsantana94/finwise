@@ -64,15 +64,6 @@
       }
     },
     {
-      "identity" : "stools",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/TimmysApp/STools",
-      "state" : {
-        "revision" : "ea876036fc53be40f564b24d3c267b447416dc1d",
-        "version" : "1.0.81"
-      }
-    },
-    {
       "identity" : "swiftui-introspect",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/siteline/SwiftUI-Introspect.git",
